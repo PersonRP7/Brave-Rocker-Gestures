@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Forwards / Backwards Rocker Gestures",
     "version": "0.0.0.1",
-    "description": "Simple mouse based back/forward navigation. In rapid succession press right click then left click to go backwards and reverse to go forwards.",
+    "description": "Mouse based navigation. In rapid succession press right click then left click to go backwards and reverse to go forwards.",
     "icons": {
       "16": "icon16.png",
       "32": "icon32.png",
